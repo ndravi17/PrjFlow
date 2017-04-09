@@ -1,3 +1,3 @@
-# Create entrypoint script. 
 #!/bin/bash
-sh catalina.sh run
+echo bloody hell
+catalina.sh run
