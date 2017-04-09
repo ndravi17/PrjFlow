@@ -1,3 +1,3 @@
 # Create entrypoint script. 
-#!/bin/bash
+#!/bin/sh
 catalina.sh run
