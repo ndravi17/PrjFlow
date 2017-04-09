@@ -3,7 +3,7 @@
 #COPY CounterWebApp/target/CounterWebApp.war /
 
 
-FROM ubutnu:14.04
+FROM ubuntu:14.04
 MAINTAINER ndravi@gmail.com
 RUN ap-get -y update
 RUN apt-get install default jdk tomcat7
